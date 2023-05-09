@@ -1,3 +1,5 @@
+package oop.phone;
+
 public class PhoneMain {
     public static void main(String[] args) {
         Phone phone1 = new Phone("+375257406888","iPhone",100.5);

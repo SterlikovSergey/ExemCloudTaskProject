@@ -1,4 +1,4 @@
-package matrix;
+package oop.matrix;
 
 public class Matrix {
     private int[][] array;

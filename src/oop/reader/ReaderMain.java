@@ -1,3 +1,5 @@
+package oop.reader;
+
 public class ReaderMain {
     public static void main(String[] args) {
 

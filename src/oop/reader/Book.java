@@ -1,3 +1,5 @@
+package oop.reader;
+
 public class Book {
     private String title;
     private String authorBook;
